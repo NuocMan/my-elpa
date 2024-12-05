@@ -1,2 +1,2 @@
 (1
- (spacemacs-theme . [(20241018 1834) ((emacs (24))) "Color theme with a dark and light versions" tar ((:url . "https://github.com/nuocman/spacemacs-theme") (:commit . "2c12ec537c7a746cfc01ec3e78b4e4b2be7a521b") (:revdesc . "2c12ec537c7a") (:keywords "color" "theme"))]))
+ (spacemacs-theme . [(20241205 2323) ((emacs (24))) "Color theme with a dark and light versions" tar ((:url . "https://github.com/nuocman/spacemacs-theme") (:commit . "2a0d40c4b5aed8930c1a54d036f2422ee2586b04") (:revdesc . "2a0d40c4b5ae") (:keywords "color" "theme"))]))
